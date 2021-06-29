@@ -5,8 +5,10 @@
   Portfolio Website
 </h1>
 <p align="center">
-  The first iteration of <a href="https://debajyotidasgupta.github.io" target="_blank">debajyotidasgupta.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>
+  The first iteration of <a href="https://debajyotidasgupta.netlify.app/" target="_blank">debajyotidasgupta.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with Netlify
 </p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5dd553ae-a133-40d5-9c86-ec793a3e10da/deploy-status)](https://app.netlify.com/sites/debajyotidasgupta/deploys)
 
 ![demo](./src/images/demo.png)
 
